@@ -39,8 +39,8 @@ HTML, CSS, JavaScript. Использование препроцессора (SC
 ![HTML](https://img.shields.io/badge/HTML-E34F26.png)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.png)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.png)  
-**[Deploy link](https://github.com/besyashka/my-projects-rss/tree/audio-player)  
-[Repository link](https://besyashka.github.io/my-projects-rss/audio-player/)**
+**[Deploy link](https://besyashka.github.io/my-projects-rss/audio-player/)  
+[Repository link](https://github.com/besyashka/my-projects-rss/tree/audio-player)**
 
 ### Coffee-house (website)
 ![Текст описания](./gifs/coffee-house-ezgif.com-resize.gif)  
